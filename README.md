@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi, I'm Umar Sarwar
 
-<!--
-**umar-sarwar-dev/umar-sarwar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Frontend / Full Stack Developer
 
-Here are some ideas to get you started:
+I’m a passionate developer who loves building modern, responsive and user-friendly web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 Building modern websites and web applications
+- 🎨 Interested in clean UI/UX and interactive designs
+- 🌱 Continuously learning new technologies
+- 🚀 Turning ideas into real-world projects
+- 📍 Pakistan
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+HTML • CSS • JavaScript
+
+### Programming
+Python • JavaScript
+
+### Tools
+VS Code • Git • GitHub • Netlify
+
+---
+
+## 📂 Featured Projects
+
+### 🌐 Personal Portfolio
+A modern and responsive personal portfolio website.
+
+🔗 [View Portfolio](https://umarsarwar.netlify.app/)
+
+### 🛒 E-Commerce Website
+Modern e-commerce website with responsive design and user-friendly interface.
+
+### 📊 Admin Dashboard
+Clean and responsive dashboard interface for managing data and applications.
+
+---
+
+## 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umar-sarwar-dev&show_icons=true&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me
+
+🌐 **Portfolio:** https://umarsarwar.netlify.app/
+
+💻 **GitHub:** https://github.com/umar-sarwar-dev
+
+---
+
+⭐ Thanks for visiting my profile!
