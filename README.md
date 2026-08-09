@@ -33,7 +33,7 @@ VS Code • Git • GitHub • Netlify
 
 ### 🌐 Personal Portfolio
 A modern and responsive personal portfolio website.
-
+🔗 https://github.com/umar-sarwar-dev/portfolio
 🔗 [View Portfolio](https://umarsarwar.netlify.app/)
 
 ### 🛒 E-Commerce Website
@@ -53,7 +53,7 @@ Clean and responsive dashboard interface for managing data and applications.
 ## 🤝 Connect With Me
 
 🌐 **Portfolio:** https://umarsarwar.netlify.app/
-
+🔗 **Portfolio Repo:** https://github.com/umar-sarwar-dev/portfolio
 💻 **GitHub:** https://github.com/umar-sarwar-dev
 
 ---
