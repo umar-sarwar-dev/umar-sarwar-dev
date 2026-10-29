@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=240&section=header&text=MUHAMMAD%20UMAR%20SARWAR&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Floor%20Manager%20|%20AI%20Automation%20&%20Operations%20Specialist&descSize=15&descAlignY=58" width="100%"/>
+  <img src="banner.png" width="100%" alt="Muhammad Umar Sarwar Banner"/>
 </p>
 
 <p align="center">
