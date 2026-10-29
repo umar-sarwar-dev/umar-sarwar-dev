@@ -3,9 +3,13 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umar-sarwar-dev&color=blue&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Location-Lahore,%20Pakistan-blue?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Status-Floor%20Manager-green?style=flat-square" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=umar-sarwar-dev&color=blue&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-blue?style=for-the-badge&logo=mappin&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Status-Floor%20Manager-success?style=for-the-badge&logo=icloud&logoColor=white" alt="Status" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,sql,php,git,github,vscode,windows" alt="Tech Stack Icons" />
 </p>
 
 ---
@@ -48,10 +52,10 @@
 ### 📬 Connect With Me
 
 - **Location:** Lahore, Punjab, Pakistan
-- **Email:** your-email@example.com
-- **LinkedIn:** [linkedin.com/in/your-profile](#)
+- **Email:** [umardogar3001@gmail.com](mailto:umardogar3001@gmail.com)
+- **LinkedIn:** [linkedin.com/in/umar-dogar-2a7a19426](https://www.linkedin.com/in/umar-dogar-2a7a19426)
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Floor+Management;Business+Automation;Operations+Strategy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=Floor+Management+%26+Operations;Business+Process+Automation;Workflow+Optimization+%26+Strategy" alt="Typing SVG" />
 </p>
