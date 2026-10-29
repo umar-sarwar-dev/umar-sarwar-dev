@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- Yahan apni picture ka link ya image add karne ka tareeqa hai -->
+<img src="YAHAN_APNI_PICTURE_KA_DIRECT_LINK_LAGAYEIN" width="160px" height="160px" style="border-radius: 50%; border: 3px solid #38BDF8; box-shadow: 0px 0px 20px rgba(56, 189, 248, 0.6);" alt="Umar Sarwar" />
+
 # 👋 Hi, I'm Umar Sarwar
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+%2F+Full+Stack+Developer;Building+Modern+Web+Experiences;Turning+Ideas+Into+Reality" alt="Typing SVG" />
@@ -17,17 +20,17 @@
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & 3D Skills
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,git,github,vscode,nodejs" alt="Tech Stack" />
 
 </div>
 
 ---
 
-### 📊 GitHub Stats & 3D Feel
+### 📊 GitHub Stats & Activity
 
 <div align="center">
 
