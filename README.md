@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Muhammad Umar Sarwar Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=240&section=header&text=MUHAMMAD%20UMAR%20SARWAR&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Floor%20Manager%20|%20AI%20Automation%20&%20Operations%20Specialist&descSize=15&descAlignY=58" width="100%"/>
 </p>
 
 <p align="center">
@@ -15,13 +15,13 @@
 ---
 
 ### 👋 Hi, I'm Muhammad Umar Sarwar
-- **Current Role:** Floor Manager & Operations Specialist
-- **Focus Areas:** Business Process Automation, Data Modeling, Workflow Optimization, and Team Management.
-- Yeh repository mere custom scripts, operational tools, aur business automation frameworks ka public portfolio hai.
+- **Current Role:** Floor Manager & AI Operations Specialist
+- **Focus Areas:** AI Workflow Automation, Data Modeling, Process Optimization, and Smart Business Systems.
+- Yeh repository mere custom scripts, operational AI tools, aur business automation frameworks ka public portfolio hai.
 
 ---
 
-### 📊 Operations & Business Automation Systems
+### 📊 Operations & AI Automation Systems
 
 | Project & Description | Tech Stack | Repository |
 | :--- | :--- | :--- |
@@ -43,7 +43,7 @@
 ### 💻 Skills & Tech Stack
 
 - **Languages & Scripting:** Python, JavaScript, HTML/CSS, SQL, PHP
-- **Data & Analytics:** Business Statistics, Quantitative Modeling, Excel Dashboards, Data Interpretation
+- **AI & Data Analytics:** Business Statistics, AI-driven Workflow Automation, Quantitative Modeling, Excel Dashboards
 - **Management & Workflow:** Floor Management, Process Optimization, Team Coordination, Operations Strategy
 - **Tools & Environments:** Git, GitHub, VS Code, Windows Administration
 
@@ -57,5 +57,5 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=Floor+Management+%26+Operations;Business+Process+Automation;Workflow+Optimization+%26+Strategy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=Floor+Management+%26+Operations;AI+Business+Automation;Workflow+Optimization+%26+Strategy" alt="Typing SVG" />
 </p>
