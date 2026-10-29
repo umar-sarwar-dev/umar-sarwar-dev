@@ -1,62 +1,48 @@
+<div align="center">
+
 # 👋 Hi, I'm Umar Sarwar
 
-### 💻 Frontend / Full Stack Developer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+%2F+Full+Stack+Developer;Building+Modern+Web+Experiences;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
-I’m a passionate developer who loves building modern, responsive and user-friendly web experiences.
-
----
-
-## 🚀 About Me
-
-- 💻 Building modern websites and web applications
-- 🎨 Interested in clean UI/UX and interactive designs
-- 🌱 Continuously learning new technologies
-- 🚀 Turning ideas into real-world projects
-- 📍 Pakistan
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 About Me
 
-### Frontend
-HTML • CSS • JavaScript
-
-### Programming
-Python • JavaScript
-
-### Tools
-VS Code • Git • GitHub • Netlify
+* 💻 Building modern websites and web applications
+* 🎨 Interested in clean UI/UX and interactive designs
+* ⚡ Continuously learning new technologies
+* 🌍 Based in Lahore, Pakistan
 
 ---
 
-## 📂 Featured Projects
+### 🛠️ Tech Stack & Skills
 
-### 🌐 Personal Portfolio
-A modern and responsive personal portfolio website.
-🔗 https://github.com/umar-sarwar-dev/portfolio
-🔗 [View Portfolio](https://umarsarwar.netlify.app/)
-🔗 https://github.com/umar-sarwar-dev/sada-adda
-🌐 Live: https://sada-adda.netlify.app
-### 🛒 E-Commerce Website
-Modern e-commerce website with responsive design and user-friendly interface.
+<div align="center">
 
-### 📊 Admin Dashboard
-Clean and responsive dashboard interface for managing data and applications.
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,git,github,vscode" />
+
+</div>
 
 ---
 
-## 📊 GitHub
+### 📊 GitHub Stats & 3D Feel
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umar-sarwar-dev&show_icons=true&theme=tokyonight)
+<div align="center">
+
+  <a href="https://github.com/umar-sarwar-dev">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=umar-sarwar-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Umar's GitHub Stats" />
+  </a>
+
+  <a href="https://github.com/umar-sarwar-dev">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umar-sarwar-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
+
+</div>
 
 ---
 
-## 🤝 Connect With Me
-
-🌐 **Portfolio:** https://umarsarwar.netlify.app/
-🔗 **Portfolio Repo:** https://github.com/umar-sarwar-dev/portfolio
-💻 **GitHub:** https://github.com/umar-sarwar-dev
-
----
-
-⭐ Thanks for visiting my profile!
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=umar-sarwar-dev&color=blueviolet&style=flat-square" alt="Profile Views" />
+</div>
