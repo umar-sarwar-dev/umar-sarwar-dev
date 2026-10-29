@@ -1,61 +1,89 @@
-<div align="center">
-<p align="center">
-  <img src="./banner.png" alt="Umar Sarwar Developer Banner" width="100%">
-</p>
-<!-- Apni picture ka link yahan lagana -->
-<img src="YAHAN_APNI_PICTURE_KA_DIRECT_LINK_LAGAYEIN" width="160px" height="160px" style="border-radius: 50%; border: 4px solid #38BDF8; box-shadow: 0px 0px 25px rgba(56, 189, 248, 0.8);" alt="Umar Sarwar" />
+ <div align="center">
 
-# 🚀 Hi, I'm Umar Sarwar
+  <img src="./banner.png" alt="Umar Sarwar Developer Banner" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=F43F5E&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+%26+Tech+Enthusiast;Building+Next-Gen+Web+Applications;Turning+Complex+Ideas+Into+Reality" alt="Typing SVG" />
+  <br/>
 
-</div>
+  <h1>🚀 Hi, I'm Umar Sarwar</h1>
 
----
+  <h3>💻 Full Stack Developer | Tech Explorer | UI/UX Enthusiast</h3>
 
-### 💻 About Me
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Experiences;Turning+Complex+Ideas+Into+Reality;Designing+Clean+%26+Interactive+Interfaces;Always+Learning.+Always+Building." alt="Animated introduction" />
 
-* ⚡ **Current Role:** Floor Manager & Tech Explorer
-* 🧠 **Passionate about:** Modern Web Architecture, UI/UX, and 3D Design
-* 🌍 **Based in:** Lahore, Pakistan
-* 🎯 **Goal:** Building high-performance, scalable web apps with stunning interfaces
+  <br/>
 
----
-
-### 🛠️ Tech Stack & Advanced Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,nodejs,git,github,vscode,figma,py" alt="Tech Stack" />
+  <p>
+    <a href="https://github.com/umar-sarwar-dev">
+      <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+    </a>
+    <img src="https://img.shields.io/badge/Focus-Web%20Development-0EA5E9?style=for-the-badge&logo=codeforces&logoColor=white" alt="Web Development"/>
+    <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  </p>
 
 </div>
 
 ---
 
-### 📊 GitHub Analytics & Metrics
+## ✨ About Me
+
+> *“Turning ideas into interactive digital experiences.”*
+
+👋 I'm **Umar Sarwar**, a developer and technology enthusiast interested in building modern, responsive, and visually engaging web experiences.
+
+- 💼 **Current Role:** Floor Manager & Tech Explorer
+- 🌐 **Interests:** Full Stack Development, Modern Web Architecture, UI/UX & 3D Design
+- 📍 **Location:** Lahore, Pakistan
+- 🎯 **Mission:** Build useful, scalable applications with smooth user experiences
+- 🚀 **Mindset:** Learn continuously, experiment boldly, and improve every day
+
+---
+
+## 🧊 Tech Stack & Tools
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,git,github,vscode,figma,python&theme=dark" alt="Technologies and development tools" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
   <a href="https://github.com/umar-sarwar-dev">
-    <img height="190px" src="https://github-readme-stats.vercel.app/api?username=umar-sarwar-dev&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Umar's GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=umar-sarwar-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
   </a>
 
   <a href="https://github.com/umar-sarwar-dev">
-    <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umar-sarwar-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umar-sarwar-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
   </a>
 
 </div>
 
 ---
 
+## 🔥 Contribution Streak
+
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umar-sarwar-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umar-sarwar-dev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
+## 🐍 Contribution Activity
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=umar-sarwar-dev&color=critical&style=for-the-badge" alt="Profile Views" />
+
+  <img src="https://komarev.com/ghpvc/?username=umar-sarwar-dev&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile views" />
+
+  <br/><br/>
+
+  <h3>⚡ Code • Create • Innovate ⚡</h3>
+
+  <i>Thanks for visiting my profile. Let's build something amazing!</i>
+
 </div>
