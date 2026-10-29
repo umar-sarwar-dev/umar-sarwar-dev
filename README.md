@@ -1,5 +1,7 @@
 <div align="center">
-
+<p align="center">
+  <img src="./banner.png" alt="Umar Sarwar Developer Banner" width="100%">
+</p>
 <!-- Apni picture ka link yahan lagana -->
 <img src="YAHAN_APNI_PICTURE_KA_DIRECT_LINK_LAGAYEIN" width="160px" height="160px" style="border-radius: 50%; border: 4px solid #38BDF8; box-shadow: 0px 0px 25px rgba(56, 189, 248, 0.8);" alt="Umar Sarwar" />
 
