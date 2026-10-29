@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Muhammad Umar Sarwar Banner"/>
+  <img src="banner.png" width="75%" alt="Muhammad Umar Sarwar Banner"/>
 </p>
 
 <p align="center">
@@ -56,4 +56,6 @@
 - **LinkedIn:** [linkedin.com/in/umar-dogar-2a7a19426](https://www.linkedin.com/in/umar-dogar-2a7a19426)
 
 ---
-<p align="
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=Floor+Management+%26+Operations;AI+Business+Automation;Workflow+Optimization+%26+Strategy" alt="Typing SVG" />
+</p>
