@@ -1,16 +1,12 @@
-<!-- Waving Header Banner -->
+<!-- Clean Banner Using Your Existing banner.png -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0284c7,100:7dd3fc&height=220&section=header&text=Muhammad%20Umar%20Sarwar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%26%20Full%20Stack%20Developer%20%7C%20AI%20Operations%20Specialist&descAlignY=60&descSize=16&animation=twinkling" width="100%" alt="Muhammad Umar Sarwar Header Banner" />
+  <img src="banner.png" width="80%" alt="Muhammad Umar Sarwar Banner" />
 </p>
 
-<!-- Typing SVG Animation -->
-<p align="center">
-  <a href="https://muhammadumarsarwar30.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7DD3FC&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=65&lines=Building+intelligent%2C+modern+%26+responsive+web+experiences;AI+Operations+Specialist+%26+Automated+Systems+Architect+%7C+Python+%E2%80%A2+JS" alt="Typing SVG" />
-  </a>
-</p>
+<h2 align="center">Muhammad Umar Sarwar</h2>
+<p align="center"><strong>Frontend & Full Stack Developer | AI Operations Specialist</strong><br/>Building intelligent, modern & responsive web experiences & automated systems • Python • JavaScript</p>
 
-<!-- Profile Views & Follower Count Badges -->
+<!-- Profile Views & Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=umar-sarwar-dev&label=Profile%20Views&color=7dd3fc&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/umar-sarwar-dev?label=Followers&style=for-the-badge&color=7dd3fc&logo=github" alt="GitHub Followers" />
