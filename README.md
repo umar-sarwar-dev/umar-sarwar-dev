@@ -1,61 +1,49 @@
+<!-- Waving Header Banner -->
 <p align="center">
-  <img src="banner.png" width="75%" alt="Muhammad Umar Sarwar Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0284c7,100:7dd3fc&height=220&section=header&text=Muhammad%20Umar%20Sarwar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%26%20Full%20Stack%20Developer%20%7C%20AI%20Operations%20Specialist&descAlignY=60&descSize=16&animation=twinkling" width="100%" alt="Muhammad Umar Sarwar Header Banner" />
 </p>
 
+<!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umar-sarwar-dev&color=blue&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-blue?style=for-the-badge&logo=mappin&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Status-Floor%20Manager-success?style=for-the-badge&logo=icloud&logoColor=white" alt="Status" />
+  <a href="https://muhammadumarsarwar30.netlify.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7DD3FC&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=65&lines=Building+intelligent%2C+modern+%26+responsive+web+experiences;AI+Operations+Specialist+%26+Automated+Systems+Architect+%7C+Python+%E2%80%A2+JS" alt="Typing SVG" />
+  </a>
 </p>
 
+<!-- Profile Views & Follower Count Badges -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,sql,php,git,github,vscode,windows" alt="Tech Stack Icons" />
+  <img src="https://komarev.com/ghpvc/?username=umar-sarwar-dev&label=Profile%20Views&color=7dd3fc&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/umar-sarwar-dev?label=Followers&style=for-the-badge&color=7dd3fc&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-0f172a?style=for-the-badge&logo=googlemaps&logoColor=7dd3fc" alt="Location" />
 </p>
 
 ---
 
-### 👋 Hi, I'm Muhammad Umar Sarwar
-- **Current Role:** Floor Manager & AI Operations Specialist
-- **Focus Areas:** AI Workflow Automation, Data Modeling, Process Optimization, and Smart Business Systems.
-- Yeh repository mere custom scripts, operational AI tools, aur business automation frameworks ka public portfolio hai.
+### 👨‍💻 Who I Am
 
----
-
-### 📊 Operations & AI Automation Systems
-
-| Project & Description | Tech Stack | Repository |
-| :--- | :--- | :--- |
-| **Floor & Inventory Tracking System** - Automated solution designed for day-to-day warehouse/floor operations, tracking stock movement and live status. | Python, SQL, Excel Dashboards | [View Code](https://github.com/umar-sarwar-dev) |
-| **Bank Management System** - Secure backend logic handling user accounts, deposits, statements, and transaction processing. | Python, OOP | [View Code](https://github.com/umar-sarwar-dev/bank-management-) |
-| **Retail & Staff Management Hub** - Centralized management utility controlling attendance, shift coordination, and employee productivity reports. | PHP, JavaScript, MySQL | [View Code](https://github.com/umar-sarwar-dev) |
-
----
-
-### ⚡ Mini Scripts & Utility Tools
-
-| Project & Description | Tech Stack | Repository |
-| :--- | :--- | :--- |
-| **Space Dodger Arcade Game** - Interactive console and browser-based arcade logic built with clean algorithms and loops. | Python, JavaScript | [View Code](https://github.com/umar-sarwar-dev/space-dodger) |
-| **Data Analysis & Statistics Toolkit** - Custom scripts handling linear regression, scatter plots, and confidence interval calculations. | Python, Pandas, NumPy | [View Code](https://github.com/umar-sarwar-dev) |
-
----
-
-### 💻 Skills & Tech Stack
-
-- **Languages & Scripting:** Python, JavaScript, HTML/CSS, SQL, PHP
-- **AI & Data Analytics:** Business Statistics, AI-driven Workflow Automation, Quantitative Modeling, Excel Dashboards
-- **Management & Workflow:** Floor Management, Process Optimization, Team Coordination, Operations Strategy
-- **Tools & Environments:** Git, GitHub, VS Code, Windows Administration
-
----
-
-### 📬 Connect With Me
-
-- **Location:** Lahore, Punjab, Pakistan
-- **Email:** [umardogar3001@gmail.com](mailto:umardogar3001@gmail.com)
-- **LinkedIn:** [linkedin.com/in/umar-dogar-2a7a19426](https://www.linkedin.com/in/umar-dogar-2a7a19426)
-
----
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=Floor+Management+%26+Operations;AI+Business+Automation;Workflow+Optimization+%26+Strategy" alt="Typing SVG" />
-</p>
+```ts
+const umarSarwar = {
+  name: "Muhammad Umar Sarwar",
+  title: "Frontend & Full Stack Developer | AI Operations Specialist",
+  location: "Lahore, Punjab, Pakistan",
+  stack: [
+    "JavaScript",
+    "Python",
+    "HTML5",
+    "CSS3",
+    "PHP",
+    "SQL / MySQL",
+    "AI Workflow Automation",
+    "SEO / AEO / GEO & GA4"
+  ],
+  launchedProjects: [
+    "sada-adda",
+    "bank-management-",
+    "space-dodger"
+  ],
+  certifications: [
+    "Full-Stack Web Development Certification",
+    "Bachelor of Science in Psychology (In Progress)"
+  ],
+  status: "Floor Manager & AI Operations Specialist — Building Intelligent Systems"
+};
