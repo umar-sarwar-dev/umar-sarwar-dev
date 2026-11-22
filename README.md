@@ -1,45 +1,39 @@
-<!-- Clean Banner Using Your Existing banner.png -->
 <p align="center">
-  <img src="banner.png" width="80%" alt="Muhammad Umar Sarwar Banner" />
+  <img src="banner.png" width="75%" alt="Muhammad Umar Sarwar Banner"/>
 </p>
 
-<h2 align="center">Muhammad Umar Sarwar</h2>
-<p align="center"><strong>Frontend & Full Stack Developer | AI Operations Specialist</strong><br/>Building intelligent, modern & responsive web experiences & automated systems • Python • JavaScript</p>
-
-<!-- Profile Views & Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umar-sarwar-dev&label=Profile%20Views&color=7dd3fc&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/umar-sarwar-dev?label=Followers&style=for-the-badge&color=7dd3fc&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-0f172a?style=for-the-badge&logo=googlemaps&logoColor=7dd3fc" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=umar-sarwar-dev&color=blue&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-blue?style=for-the-badge&logo=mappin&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Status-Floor%20Manager%20%26%20AI%20Ops-success?style=for-the-badge&logo=icloud&logoColor=white" alt="Status" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,sql,php,git,github,vscode,windows" alt="Tech Stack Icons" />
 </p>
 
 ---
 
-### 👨‍💻 Who I Am
+### 👋 Hi, I'm Muhammad Umar Sarwar
+- **Current Role:** Floor Manager & AI Operations Specialist | Frontend & Full Stack Developer
+- **Focus:** Building intelligent, modern & responsive web experiences & automated systems • Python • JavaScript
+- **Portfolio:** [muhammadumarsarwar30.netlify.app](https://muhammadumarsarwar30.netlify.app/)
+- **LinkedIn:** [Umar Sarwar](https://www.linkedin.com/in/umar-sarwar-2a7a19426/)
+- **Email:** [umardogar3001@gmail.com](mailto:umardogar3001@gmail.com)
 
-```ts
-const umarSarwar = {
-  name: "Muhammad Umar Sarwar",
-  title: "Frontend & Full Stack Developer | AI Operations Specialist",
-  location: "Lahore, Punjab, Pakistan",
-  stack: [
-    "JavaScript",
-    "Python",
-    "HTML5",
-    "CSS3",
-    "PHP",
-    "SQL / MySQL",
-    "AI Workflow Automation",
-    "SEO / AEO / GEO & GA4"
-  ],
-  launchedProjects: [
-    "sada-adda",
-    "bank-management-",
-    "space-dodger"
-  ],
-  certifications: [
-    "Full-Stack Web Development Certification",
-    "Bachelor of Science in Psychology (In Progress)"
-  ],
-  status: "Floor Manager & AI Operations Specialist — Building Intelligent Systems"
-};
+---
+
+### 📊 Operations & AI Automation Systems
+
+| Project & Description | Tech Stack | Repository |
+| :--- | :--- | :--- |
+| **Floor & Inventory Tracking System** - Automated solution designed for day-to-day warehouse/floor operations, tracking stock movement and live status. | Python, SQL, Excel Dashboards | [View Code](https://github.com/umar-sarwar-dev/umar-sarwar-dev) |
+| **Bank Management System** - Secure backend logic handling user accounts, deposits, statements, and transaction processing. | Python, OOP | [View Code](https://github.com/umar-sarwar-dev/bank-management-) |
+| **Retail & Staff Management Hub** - Centralized management utility controlling attendance, shift coordination, and employee productivity reports. | PHP, JavaScript, MySQL | [View Code](https://github.com/umar-sarwar-dev/umar-sarwar-dev) |
+
+### ⚡ Mini Scripts & Utility Tools
+
+| Project & Description | Tech Stack | Repository |
+| :--- | :--- | :--- |
+| **Space Dodger Arcade Game** - Interactive console and browser-based arcade logic built with clean algorithms and loops. | Python, JavaScript | [View Code](https://github.com/umar-sarwar-dev/space-dodger) |
+| **Sada Adda Landing Page** - Chai & qehwa cafe landing page concept built with clean frontend structure. | HTML, CSS, JavaScript | [View Code](https://github.com/umar-sarwar-dev/sada-adda) |
