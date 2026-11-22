@@ -23,17 +23,10 @@
 
 ---
 
-### 📊 Operations & AI Automation Systems
+### 📊 Projects & Systems
 
-| Project & Description | Tech Stack | Repository |
+| Project | Tech Stack | Link |
 | :--- | :--- | :--- |
-| **Floor & Inventory Tracking System** - Automated solution designed for day-to-day warehouse/floor operations, tracking stock movement and live status. | Python, SQL, Excel Dashboards | [View Code](https://github.com/umar-sarwar-dev/umar-sarwar-dev) |
-| **Bank Management System** - Secure backend logic handling user accounts, deposits, statements, and transaction processing. | Python, OOP | [View Code](https://github.com/umar-sarwar-dev/bank-management-) |
-| **Retail & Staff Management Hub** - Centralized management utility controlling attendance, shift coordination, and employee productivity reports. | PHP, JavaScript, MySQL | [View Code](https://github.com/umar-sarwar-dev/umar-sarwar-dev) |
-
-### ⚡ Mini Scripts & Utility Tools
-
-| Project & Description | Tech Stack | Repository |
-| :--- | :--- | :--- |
-| **Space Dodger Arcade Game** - Interactive console and browser-based arcade logic built with clean algorithms and loops. | Python, JavaScript | [View Code](https://github.com/umar-sarwar-dev/space-dodger) |
-| **Sada Adda Landing Page** - Chai & qehwa cafe landing page concept built with clean frontend structure. | HTML, CSS, JavaScript | [View Code](https://github.com/umar-sarwar-dev/sada-adda) |
+| **Bank Management System** — Accounts, deposits & transactions logic | Python, OOP | [Repo](https://github.com/umar-sarwar-dev/bank-management-) |
+| **Space Dodger** — Arcade game logic | Python, JavaScript | [Repo](https://github.com/umar-sarwar-dev/space-dodger) |
+| **Sada Adda** — Chai & qehwa cafe landing page | HTML, CSS, JavaScript | [Repo](https://github.com/umar-sarwar-dev/sada-adda) |
