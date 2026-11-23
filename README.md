@@ -51,7 +51,15 @@ GitHub Analytics
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=umar-sarwar-dev&bg_color=2e3440&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" /> </div> <br/>
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Graph" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=umar-sarwar-dev&bg_color=2e3440&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/umar-sarwar-dev/umar-sarwar-dev/output/github-snake-dark.svg" width="100%" alt="Contribution Snake" /> </div> <br/>
 Connect
 
 Interested in working together or just want to say hello? Reach out at umardogar3001@gmail.com or through the links below.
