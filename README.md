@@ -1,39 +1,39 @@
+<!-- 3D Animatic Top Banner + Existing Custom Banner -->
 <p align="center">
-  <img src="banner.png" width="75%" alt="Muhammad Umar Sarwar Banner"/>
+  <img src="banner.png" width="85%" alt="Muhammad Umar Sarwar 3D Banner" />
 </p>
 
+<!-- Animated Cyber-HUD Typing Terminal -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umar-sarwar-dev&color=blue&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-blue?style=for-the-badge&logo=mappin&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Status-Floor%20Manager%20%26%20AI%20Ops-success?style=for-the-badge&logo=icloud&logoColor=white" alt="Status" />
+  <a href="https://muhammadumarsarwar30.netlify.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=820&height=55&lines=FLOOR+MANAGER+%26+AI+OPERATIONS+SPECIALIST;FULL-STACK+WEB+DEVELOPER+%E2%80%A2+PYTHON+%E2%80%A2+JAVASCRIPT;ARCHITECTING+AUTOMATED+SYSTEMS+%26+3D+WEB+EXPERIENCES" alt="3D HUD Typing" />
+  </a>
 </p>
 
+<!-- Glowing 3D Status & Telemetry Badges -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,sql,php,git,github,vscode,windows" alt="Tech Stack Icons" />
+  <img src="https://komarev.com/ghpvc/?username=umar-sarwar-dev&label=SYSTEM+VIEWS&color=00f5d4&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/BASE-LAHORE%2C%20PAKISTAN-0b0f19?style=for-the-badge&logo=googlemaps&logoColor=00f5d4" alt="Location" />
+  <img src="https://img.shields.io/badge/ROLE-FLOOR%20MANAGER%20%26%20AI%20OPS-0b0f19?style=for-the-badge&logo=probot&logoColor=10b981" alt="Status" />
+  <a href="https://muhammadumarsarwar30.netlify.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-3D%20LIVE%20SITE-00f5d4?style=for-the-badge&logo=netlify&logoColor=0b0f19" alt="Live Portfolio" />
+  </a>
 </p>
 
----
+<!-- Animated Laser Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
+</p>
 
-### 👋 Hi, I'm Muhammad Umar Sarwar
-- **Current Role:** Floor Manager & AI Operations Specialist | Frontend & Full Stack Developer
-- **Focus:** Building intelligent, modern & responsive web experiences & automated systems • Python • JavaScript
-- **Portfolio:** [muhammadumarsarwar30.netlify.app](https://muhammadumarsarwar30.netlify.app/)
-- **LinkedIn:** [Umar Sarwar](https://www.linkedin.com/in/umar-sarwar-2a7a19426/)
-- **Email:** [umardogar3001@gmail.com](mailto:umardogar3001@gmail.com)
+### ⚡ `01 // SYSTEM_IDENTITY` — Muhammad Umar Sarwar
 
----
-
-### 📊 Operations & AI Automation Systems
-
-| Project & Description | Tech Stack | Repository |
-| :--- | :--- | :--- |
-| **Floor & Inventory Tracking System** - Automated solution designed for day-to-day warehouse/floor operations, tracking stock movement and live status. | Python, SQL, Excel Dashboards | [View Code](https://github.com/umar-sarwar-dev/umar-sarwar-dev) |
-| **Bank Management System** - Secure backend logic handling user accounts, deposits, statements, and transaction processing. | Python, OOP | [View Code](https://github.com/umar-sarwar-dev/bank-management-) |
-| **Retail & Staff Management Hub** - Centralized management utility controlling attendance, shift coordination, and employee productivity reports. | PHP, JavaScript, MySQL | [View Code](https://github.com/umar-sarwar-dev/umar-sarwar-dev) |
-
-### ⚡ Mini Scripts & Utility Tools
-
-| Project & Description | Tech Stack | Repository |
-| :--- | :--- | :--- |
-| **Space Dodger Arcade Game** - Interactive console and browser-based arcade logic built with clean algorithms and loops. | Python, JavaScript | [View Code](https://github.com/umar-sarwar-dev/space-dodger) |
-| **Sada Adda Landing Page** - Chai & qehwa cafe landing page concept built with clean frontend structure. | HTML, CSS, JavaScript | [View Code](https://github.com/umar-sarwar-dev/sada-adda) |
+```typescript
+const executiveProfile = {
+  identity: "Muhammad Umar Sarwar",
+  designation: "Floor Manager & AI Operations Specialist | Full-Stack Developer",
+  headquarters: "Lahore, Punjab, Pakistan",
+  coreArchitecture: ["Python", "JavaScript", "HTML5", "CSS3", "SQL / MySQL", "PHP"],
+  aiAndAutomation: ["AI Workflow Automation", "KPI & Data Modeling", "SEO / AEO / GEO"],
+  liveHub: "[https://muhammadumarsarwar30.netlify.app/](https://muhammadumarsarwar30.netlify.app/)",
+  directContact: "umardogar3001@gmail.com"
+};
