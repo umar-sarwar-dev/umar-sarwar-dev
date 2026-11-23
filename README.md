@@ -7,13 +7,8 @@
 </div> <br/>
 About
 
-I build intelligent, modern and responsive web experiences, and the automated systems that keep day-to-day operations running smoothly. My work sits where frontend development, full stack engineering and AI-driven operations meet.
+I build modern, responsive web experiences and the automated systems behind smooth daily operations.
 
-	
-Current Role	Floor Manager & AI Operations Specialist
-Specialisation	Frontend & Full Stack Development
-Location	Lahore, Pakistan
-Portfolio	muhammadumarsarwar30.netlify.app
 typescript
 const umar = {
   name: "Muhammad Umar Sarwar",
