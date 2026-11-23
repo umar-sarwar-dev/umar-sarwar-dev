@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0c4a6e,100:7dd3fc&text=Muhammad%20Umar%20Sarwar&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Frontend%20%26%20Full%20Stack%20Developer%20%7C%20AI%20Operations%20Specialist&descAlignY=58&descSize=18&animation=twinkling" width="100%" alt="Muhammad Umar Sarwar" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a6e,100:7dd3fc&height=230&text=Muhammad%20Umar%20Sarwar&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=Frontend%20and%20Full%20Stack%20Developer%20-%20AI%20Operations%20Specialist&descSize=18&descAlignY=55&animation=twinkling" width="100%" alt="Muhammad Umar Sarwar" />
 
 <a href="https://github.com/umar-sarwar-dev">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7DD3FC&center=true&vCenter=true&width=700&lines=Building+intelligent%2C+modern+%26+responsive+web+experiences;Automating+systems+with+Python+%26+JavaScript;Frontend+%26+Full+Stack+Developer;AI+Operations+Specialist" alt="Typing SVG" />
@@ -123,3 +123,4 @@ Chai & qehwa cafe landing page concept built with clean frontend structure.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:7dd3fc,100:0c4a6e&section=footer" width="100%" alt="Footer" />
+
