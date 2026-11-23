@@ -29,7 +29,7 @@
 | :--- | :--- | :--- |
 | **Floor & Inventory Tracking System** - Automated solution designed for day-to-day warehouse/floor operations, tracking stock movement and live status. | Python, SQL, Excel Dashboards | [View Code](https://github.com/umar-sarwar-dev/umar-sarwar-dev) |
 | **Bank Management System** - Secure backend logic handling user accounts, deposits, statements, and transaction processing. | Python, OOP | [View Code](https://github.com/umar-sarwar-dev/bank-management-) |
-| **Retail & Staff Management Hub** - Centralized management utility controlling attendance, shift coordination, and employee productivity reports. | PHP, JavaScript, MySQL | [View Code](https://github-readme-stats.vercel.app) -> [View Code](https://github.com/umar-sarwar-dev/umar-sarwar-dev) |
+| **Retail & Staff Management Hub** - Centralized management utility controlling attendance, shift coordination, and employee productivity reports. | PHP, JavaScript, MySQL | [View Code](https://github.com/umar-sarwar-dev/umar-sarwar-dev) |
 
 ### ⚡ Mini Scripts & Utility Tools
 
